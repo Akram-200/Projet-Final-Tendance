@@ -27,6 +27,22 @@ https://portfolio-projet-server0.onrender.com/api/docs
 Health check :  
 https://portfolio-projet-server0.onrender.com/health  
 
+
+##ScreenShots
+<img width="1898" height="921" alt="image" src="https://github.com/user-attachments/assets/842f377e-d816-43e0-9fd7-a86e300f1f55" />
+---------------------------------
+<img width="1890" height="892" alt="image" src="https://github.com/user-attachments/assets/857cc4b2-a7db-4610-8b8d-e479a3472586" />
+---------------------------------
+<img width="1913" height="587" alt="image" src="https://github.com/user-attachments/assets/ca1efe17-b7da-4bd0-b52d-2c638df14d3c" />
+---------------------------------
+<img width="1887" height="603" alt="image" src="https://github.com/user-attachments/assets/78eb8520-1580-43c7-9a83-2488ebf01f43" />
+---------------------------------
+<img width="1890" height="903" alt="image" src="https://github.com/user-attachments/assets/33ef9dba-b614-4bce-8e5e-be3668b22492" />
+---------------------------------
+<img width="1893" height="695" alt="image" src="https://github.com/user-attachments/assets/807f1ced-32b2-494d-b69c-a5c7d119b24a" />
+
+
+
 ---
 
 ## Lancer le projet en local
